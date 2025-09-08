@@ -1,1 +1,11 @@
-print("hiii")
+a=int(input())
+b=int((input())
+n=int(input(1.add/n
+      2.sub/n
+      3.multi/n))
+if(n==1):
+  print(a+b)
+elif(n==2):
+  print(a-b)
+else:
+  print(a*b)
